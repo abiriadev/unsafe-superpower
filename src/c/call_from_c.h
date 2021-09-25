@@ -1,0 +1,1 @@
+int call_from_c();
